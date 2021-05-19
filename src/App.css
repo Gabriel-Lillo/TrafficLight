@@ -1,0 +1,50 @@
+/* .App {
+  text-align: center;
+} */
+
+.traffic{
+  background-color: green;
+  width: 400px;
+  height: 600px;
+  margin: auto;
+}
+
+.post{
+  background-color: black;
+  width: 30px;
+  height: 150px;
+  margin: auto;
+}
+
+.body{
+  background-color: black;
+  width: 160px;
+  height: 400px;
+  margin: auto;
+  border-radius: 2rem;
+  padding-top: 10px;
+}
+
+.red {
+  background-color: red;
+  width: 120px;
+  height: 120px;
+  border-radius: 1000px;
+  margin: auto;
+}
+.yellow {
+  background-color: yellow;
+  width: 120px;
+  height: 120px;
+  border-radius: 1000px;
+  margin: auto;
+  margin-top: 10px;
+}
+.green {
+  background-color: green;
+  width: 120px;
+  height: 120px;
+  border-radius: 1000px;
+  margin: auto;
+  margin-top: 10px;
+}

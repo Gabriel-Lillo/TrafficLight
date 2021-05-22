@@ -2,8 +2,8 @@
   text-align: center;
 } */
 
-.traffic{
-  background-color: green;
+.trafficLight{
+  /* background-color: green; */
   width: 400px;
   height: 600px;
   margin: auto;
@@ -48,3 +48,12 @@
   margin: auto;
   margin-top: 10px;
 }
+
+.selected{
+  box-shadow: wheat 0px 0px 50px 20px;
+}
+
+
+
+
+/* &.selected {box-shadow: wheat 0px 0px 50px 20px;}*/
